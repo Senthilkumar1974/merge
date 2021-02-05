@@ -1,3 +1,7 @@
 First line for merge conflict
 Second Line for Merge conflict
+<<<<<<< HEAD
 Thirdline - Conflict line 
+=======
+Third Line for Merge conflict
+>>>>>>> dev
